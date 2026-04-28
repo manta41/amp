@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Server Port",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,port",
+        "FieldName": "serverPort",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "serverPort",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "10823",
+        "Placeholder": "10823",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Web Admin Port",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "web,admin,port",
+        "FieldName": "webPort",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "webPort",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "8090",
+        "Placeholder": "8090",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
